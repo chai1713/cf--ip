@@ -1,0 +1,23 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+18.140.5.21,993,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,330,13.46
+43.134.34.18,443,TRUE,SIN,SG,Asia Pacific,Singapore,132203,"Tencent Building, Kejizhongyi Avenue",314,11.92
+47.237.82.15,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",847,6.26
+8.219.42.72,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",839,5.74
+47.236.166.131,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",871,4.30
+8.217.54.204,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",238,4.21
+47.250.14.147,80,TRUE,KUL,MY,Asia Pacific,Kuala Lumpur,45102,"Alibaba US Technology Co., Ltd.",745,2.58
+213.35.105.46,443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,793,2.33
+47.250.176.132,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",749,1.75
+47.250.36.113,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",728,1.73
+47.250.157.19,80,TRUE,KUL,MY,Asia Pacific,Kuala Lumpur,45102,"Alibaba US Technology Co., Ltd.",740,1.71
+168.138.185.234,443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,779,1.61
+47.250.150.193,80,TRUE,KUL,MY,Asia Pacific,Kuala Lumpur,45102,"Alibaba US Technology Co., Ltd.",755,0.81
+43.156.27.249,443,TRUE,SIN,SG,Asia Pacific,Singapore,132203,"Tencent Building, Kejizhongyi Avenue",831,0.70
+47.245.95.160,1443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",826,0.47
+47.245.84.124,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",328,0.35
+47.250.14.44,80,TRUE,KUL,MY,Asia Pacific,Kuala Lumpur,45102,"Alibaba US Technology Co., Ltd.",394,0.08
+47.250.159.165,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",408,0.03
+47.250.153.55,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",400,0.02
+47.250.157.10,80,TRUE,KUL,MY,Asia Pacific,Kuala Lumpur,45102,"Alibaba US Technology Co., Ltd.",381,0.01
+47.250.147.26,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",410,0.01
+47.250.36.83,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",763,0.01
