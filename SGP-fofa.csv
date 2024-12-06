@@ -1,0 +1,430 @@
+﻿IP地址,端口,回源端口,TLS,城市,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+206.238.236.190,2053,443,TRUE,Singapore,Europe,DE,Singapore,206,10.29
+206.238.237.246,2053,443,TRUE,Singapore,Europe,DE,Singapore,317,10.29
+114.129.43.170,2053,443,TRUE,Singapore,Europe,DE,Singapore,197,10.29
+114.129.43.123,2053,443,TRUE,Singapore,Europe,DE,Singapore,318,10.29
+206.238.236.10,2053,443,TRUE,Singapore,Europe,DE,Singapore,305,10.27
+154.219.5.113,2053,443,TRUE,Singapore,Europe,DE,Singapore,430,10.25
+114.129.43.224,2053,443,TRUE,Singapore,Europe,DE,Singapore,443,10.24
+114.129.43.131,2053,443,TRUE,Singapore,Europe,DE,Singapore,198,10.23
+114.129.43.230,2053,443,TRUE,Singapore,Europe,DE,Singapore,216,10.22
+114.129.43.51,2053,443,TRUE,Singapore,Europe,DE,Singapore,231,10.22
+114.129.43.92,2053,443,TRUE,Singapore,Europe,DE,Singapore,317,10.21
+114.129.43.57,2053,443,TRUE,Singapore,Europe,DE,Singapore,250,10.2
+114.129.43.83,2053,443,TRUE,Singapore,Europe,DE,Singapore,208,10.2
+114.129.43.122,2053,443,TRUE,Singapore,Europe,DE,Singapore,460,10.19
+206.238.237.237,2053,443,TRUE,Singapore,Europe,DE,Singapore,390,10.18
+206.238.237.225,2053,443,TRUE,Singapore,Europe,DE,Singapore,244,10.18
+206.238.236.21,2053,443,TRUE,Singapore,Europe,DE,Singapore,259,10.17
+114.129.43.143,2053,443,TRUE,Singapore,Europe,DE,Singapore,324,10.15
+114.129.43.26,2053,443,TRUE,Singapore,North America,US,Singapore,244,10.13
+114.129.43.28,2053,443,TRUE,Singapore,Europe,DE,Singapore,285,10.1
+154.219.5.3,2053,443,TRUE,Singapore,Europe,DE,Singapore,325,10.1
+114.129.43.140,2053,443,TRUE,Singapore,Europe,DE,Singapore,252,10.09
+206.238.237.233,2053,443,TRUE,Singapore,Europe,DE,Singapore,272,10.09
+206.238.236.64,2053,443,TRUE,Singapore,Europe,DE,Singapore,330,10.08
+114.129.43.168,2053,443,TRUE,Singapore,Europe,DE,Singapore,208,10.07
+114.129.43.39,2053,443,TRUE,Singapore,Europe,DE,Singapore,286,10.07
+114.129.43.42,2053,443,TRUE,Singapore,Europe,FR,Singapore,217,10.04
+114.129.43.150,2053,443,TRUE,Singapore,Europe,DE,Singapore,277,10.03
+114.129.43.251,2053,443,TRUE,Singapore,Europe,DE,Singapore,227,10.03
+114.129.43.220,2053,443,TRUE,Singapore,Europe,DE,Singapore,331,10
+206.238.236.70,2053,443,TRUE,Singapore,Europe,FR,Singapore,213,10
+206.238.237.204,2053,443,TRUE,Singapore,Europe,DE,Singapore,247,9.97
+206.238.236.81,2053,443,TRUE,Singapore,Europe,DE,Singapore,285,9.96
+114.129.43.165,2053,443,TRUE,Singapore,Europe,FR,Singapore,265,9.96
+206.238.237.217,2053,443,TRUE,Singapore,Europe,DE,Singapore,256,9.96
+114.129.43.124,2053,443,TRUE,Singapore,Europe,DE,Singapore,318,9.96
+114.129.43.20,2053,443,TRUE,Singapore,Europe,DE,Singapore,304,9.94
+114.129.43.190,2053,443,TRUE,Singapore,North America,US,Singapore,284,9.94
+114.129.43.14,2053,443,TRUE,Singapore,Europe,DE,Singapore,232,9.94
+154.219.5.120,2053,443,TRUE,Singapore,Europe,DE,Singapore,305,9.93
+114.129.43.178,2053,443,TRUE,Singapore,Europe,DE,Singapore,279,9.92
+206.238.236.147,2053,443,TRUE,Singapore,Europe,DE,Singapore,297,9.92
+206.238.236.83,2053,443,TRUE,Singapore,Europe,DE,Singapore,268,9.9
+114.129.43.95,2053,443,TRUE,Singapore,Europe,DE,Singapore,239,9.9
+154.219.5.37,2053,443,TRUE,Singapore,Europe,DE,Singapore,354,9.89
+114.129.43.46,2053,443,TRUE,Singapore,Europe,DE,Singapore,360,9.86
+154.219.5.25,2053,443,TRUE,Singapore,Europe,DE,Singapore,319,9.85
+154.219.5.18,2053,443,TRUE,Singapore,Europe,DE,Singapore,315,9.84
+206.238.236.66,2053,443,TRUE,Singapore,Europe,DE,Singapore,209,9.84
+114.129.43.187,2053,443,TRUE,Singapore,Europe,DE,Singapore,230,9.84
+114.129.43.234,2053,443,TRUE,Singapore,North America,US,Singapore,313,9.83
+206.238.236.7,2053,443,TRUE,Singapore,Europe,DE,Singapore,475,9.83
+114.129.43.215,2053,443,TRUE,Singapore,Europe,DE,Singapore,260,9.82
+114.129.43.158,2053,443,TRUE,Singapore,Europe,FR,Singapore,305,9.81
+206.238.237.207,2053,443,TRUE,Singapore,Europe,DE,Singapore,311,9.81
+206.238.237.223,2053,443,TRUE,Singapore,Europe,DE,Singapore,388,9.81
+206.238.237.248,2053,443,TRUE,Singapore,Europe,DE,Singapore,285,9.81
+206.238.237.210,2053,443,TRUE,Singapore,North America,US,Singapore,211,9.78
+206.238.236.123,2053,443,TRUE,Singapore,Europe,DE,Singapore,221,9.78
+114.129.43.72,2053,443,TRUE,Singapore,Europe,DE,Singapore,232,9.77
+114.129.43.205,2053,443,TRUE,Singapore,North America,US,Singapore,376,9.76
+114.129.43.247,2053,443,TRUE,Singapore,Europe,DE,Singapore,212,9.75
+206.238.236.1,2053,443,TRUE,Singapore,Europe,DE,Singapore,352,9.75
+114.129.43.160,2053,443,TRUE,Singapore,Europe,DE,Singapore,363,9.75
+206.238.236.2,2053,443,TRUE,Singapore,Europe,DE,Singapore,334,9.74
+206.238.237.198,2053,443,TRUE,Singapore,Europe,DE,Singapore,305,9.74
+114.129.43.119,2053,443,TRUE,Singapore,Europe,DE,Singapore,285,9.73
+114.129.43.216,2053,443,TRUE,Singapore,Europe,DE,Singapore,364,9.71
+114.129.43.117,2053,443,TRUE,Singapore,Europe,DE,Singapore,229,9.7
+114.129.43.75,2053,443,TRUE,Singapore,Europe,DE,Singapore,230,9.67
+154.219.5.80,2053,443,TRUE,Singapore,Europe,DE,Singapore,232,9.66
+114.129.43.35,2053,443,TRUE,Singapore,Europe,DE,Singapore,212,9.65
+114.129.43.100,2053,443,TRUE,Singapore,North America,US,Singapore,253,9.65
+114.129.43.32,2053,443,TRUE,Singapore,Europe,DE,Singapore,370,9.64
+114.129.43.21,2053,443,TRUE,Singapore,Europe,DE,Singapore,336,9.6
+114.129.43.163,2053,443,TRUE,Singapore,Europe,DE,Singapore,292,9.59
+114.129.43.231,2053,443,TRUE,Singapore,Europe,DE,Singapore,348,9.58
+206.238.236.33,2053,443,TRUE,Singapore,Europe,DE,Singapore,246,9.58
+114.129.43.79,2053,443,TRUE,Singapore,Europe,DE,Singapore,220,9.56
+206.238.236.121,2053,443,TRUE,Singapore,Europe,DE,Singapore,363,9.55
+206.238.236.181,2053,443,TRUE,Singapore,Europe,DE,Singapore,325,9.52
+114.129.43.71,2053,443,TRUE,Singapore,Europe,DE,Singapore,273,9.51
+114.129.43.111,2053,443,TRUE,Singapore,Europe,DE,Singapore,190,9.5
+114.129.43.202,2053,443,TRUE,Singapore,Europe,DE,Singapore,432,9.5
+114.129.43.139,2053,443,TRUE,Singapore,Europe,DE,Singapore,285,9.48
+206.238.236.177,2053,443,TRUE,Singapore,Europe,DE,Singapore,276,9.47
+206.238.236.3,2053,443,TRUE,Singapore,Europe,DE,Singapore,225,9.47
+114.129.43.132,2053,443,TRUE,Singapore,Europe,DE,Singapore,189,9.46
+114.129.43.179,2053,443,TRUE,Singapore,Europe,DE,Singapore,191,9.45
+114.129.43.90,2053,443,TRUE,Singapore,Europe,DE,Singapore,186,9.45
+114.129.43.167,2053,443,TRUE,Singapore,Europe,DE,Singapore,201,9.44
+206.238.236.145,2053,443,TRUE,Singapore,Europe,DE,Singapore,269,9.44
+114.129.43.102,2053,443,TRUE,Singapore,Europe,DE,Singapore,411,9.44
+114.129.43.196,2053,443,TRUE,Singapore,Europe,DE,Singapore,286,9.43
+206.238.237.227,2053,443,TRUE,Singapore,Europe,DE,Singapore,277,9.43
+114.129.43.34,2053,443,TRUE,Singapore,Europe,DE,Singapore,328,9.42
+114.129.43.15,2053,443,TRUE,Singapore,North America,US,Singapore,223,9.4
+114.129.43.30,2053,443,TRUE,Singapore,Europe,FR,Singapore,265,9.4
+206.238.237.209,2053,443,TRUE,Singapore,Europe,DE,Singapore,176,9.34
+114.129.43.48,2053,443,TRUE,Singapore,Europe,DE,Singapore,312,9.34
+114.129.43.17,2053,443,TRUE,Singapore,Europe,DE,Singapore,305,9.34
+114.129.43.138,2053,443,TRUE,Singapore,Europe,DE,Singapore,236,9.3
+206.238.237.250,2053,443,TRUE,Singapore,Europe,DE,Singapore,401,9.3
+206.238.237.238,2053,443,TRUE,Singapore,North America,US,Singapore,418,9.3
+114.129.43.70,2053,443,TRUE,Singapore,Europe,FR,Singapore,357,9.3
+206.238.237.191,2053,443,TRUE,Singapore,Europe,DE,Singapore,285,9.3
+114.129.43.181,2053,443,TRUE,Singapore,Europe,DE,Singapore,266,9.29
+114.129.43.89,2053,443,TRUE,Singapore,Europe,DE,Singapore,451,9.29
+206.238.236.58,2053,443,TRUE,Singapore,Europe,DE,Singapore,316,9.27
+206.238.236.50,2053,443,TRUE,Singapore,Europe,DE,Singapore,238,9.25
+114.129.43.6,2053,443,TRUE,Singapore,Europe,DE,Singapore,266,9.23
+114.129.43.112,2053,443,TRUE,Singapore,Europe,DE,Singapore,163,9.2
+114.129.43.182,2053,443,TRUE,Singapore,North America,US,Singapore,375,9.16
+114.129.43.40,2053,443,TRUE,Singapore,Europe,DE,Singapore,337,9.12
+114.129.43.73,2053,443,TRUE,Singapore,Europe,NL,Singapore,441,9.11
+114.129.43.37,2053,443,TRUE,Singapore,Europe,DE,Singapore,270,9.11
+114.129.43.211,2053,443,TRUE,Singapore,Europe,DE,Singapore,269,9.11
+114.129.43.243,2053,443,TRUE,Singapore,Europe,NL,Singapore,281,9.09
+114.129.43.2,2053,443,TRUE,Singapore,Europe,DE,Singapore,382,9.09
+206.238.236.164,2053,443,TRUE,Singapore,Europe,DE,Singapore,264,9.07
+114.129.43.189,2053,443,TRUE,Singapore,Europe,DE,Singapore,341,9.07
+114.129.43.204,2053,443,TRUE,Singapore,Europe,DE,Singapore,348,9.05
+114.129.43.62,2053,443,TRUE,Singapore,Europe,DE,Singapore,236,9.05
+114.129.43.13,2053,443,TRUE,Singapore,Europe,DE,Singapore,242,9.04
+114.129.43.162,2053,443,TRUE,Singapore,Europe,DE,Singapore,325,9.04
+206.238.236.189,2053,443,TRUE,Singapore,North America,US,Singapore,320,9.03
+114.129.43.147,2053,443,TRUE,Singapore,Europe,DE,Singapore,244,9.01
+114.129.43.214,2053,443,TRUE,Singapore,Europe,DE,Singapore,287,9.01
+114.129.43.80,2053,443,TRUE,Singapore,Europe,DE,Singapore,272,8.96
+114.129.43.192,2053,443,TRUE,Singapore,Europe,DE,Singapore,293,8.95
+206.238.236.49,2053,443,TRUE,Singapore,Europe,DE,Singapore,344,8.94
+114.129.43.113,2053,443,TRUE,Singapore,Europe,DE,Singapore,241,8.94
+114.129.43.203,2053,443,TRUE,Singapore,Europe,DE,Singapore,381,8.94
+114.129.43.4,2053,443,TRUE,Singapore,Europe,DE,Singapore,316,8.92
+206.238.236.69,2053,443,TRUE,Singapore,Europe,DE,Singapore,268,8.91
+114.129.43.136,2053,443,TRUE,Singapore,Europe,DE,Singapore,306,8.88
+206.238.236.114,2053,443,TRUE,Singapore,Europe,DE,Singapore,303,8.87
+206.238.236.135,2053,443,TRUE,Singapore,Europe,DE,Singapore,230,8.85
+114.129.43.225,2053,443,TRUE,Singapore,Europe,DE,Singapore,435,8.8
+114.129.43.5,2053,443,TRUE,Singapore,Europe,DE,Singapore,321,8.79
+114.129.43.148,2053,443,TRUE,Singapore,Europe,DE,Singapore,315,8.78
+114.129.43.103,2053,443,TRUE,Singapore,Europe,DE,Singapore,293,8.78
+206.238.236.45,2053,443,TRUE,Singapore,Europe,DE,Singapore,281,8.77
+206.238.236.4,2053,443,TRUE,Singapore,Europe,DE,Singapore,322,8.77
+206.238.236.26,2053,443,TRUE,Singapore,North America,US,Singapore,252,8.77
+114.129.43.153,2053,443,TRUE,Singapore,Europe,DE,Singapore,464,8.76
+114.129.43.135,2053,443,TRUE,Singapore,North America,US,Singapore,287,8.75
+114.129.43.240,2053,443,TRUE,Singapore,Europe,DE,Singapore,259,8.73
+206.238.237.199,2053,443,TRUE,Singapore,Europe,SE,Singapore,212,8.73
+206.238.236.92,2053,443,TRUE,Singapore,Europe,DE,Singapore,323,8.73
+206.238.236.187,2053,443,TRUE,Singapore,Europe,FR,Singapore,190,8.71
+114.129.43.125,2053,443,TRUE,Singapore,Europe,DE,Singapore,153,8.71
+206.238.236.103,2053,443,TRUE,Singapore,North America,US,Singapore,349,8.71
+206.238.237.220,2053,443,TRUE,Singapore,Europe,DE,Singapore,342,8.68
+114.129.43.99,2053,443,TRUE,Singapore,Europe,DE,Singapore,257,8.67
+114.129.43.18,2053,443,TRUE,Singapore,Europe,NL,Singapore,302,8.67
+114.129.43.166,2053,443,TRUE,Singapore,Europe,DE,Singapore,207,8.66
+114.129.43.186,2053,443,TRUE,Singapore,Europe,DE,Singapore,355,8.65
+206.238.237.218,2053,8443,TRUE,Singapore,North America,CA,Singapore,320,8.65
+206.238.236.60,2053,443,TRUE,Singapore,Europe,DE,Singapore,218,8.65
+114.129.43.31,2053,443,TRUE,Singapore,Europe,DE,Singapore,264,8.64
+114.129.43.221,2053,443,TRUE,Singapore,Europe,DE,Singapore,393,8.64
+206.238.237.221,2053,443,TRUE,Singapore,Europe,DE,Singapore,373,8.63
+114.129.43.3,2053,443,TRUE,Singapore,Europe,DE,Singapore,271,8.62
+114.129.43.98,2053,443,TRUE,Singapore,Europe,DE,Singapore,324,8.62
+114.129.43.121,2053,443,TRUE,Singapore,Europe,DE,Singapore,316,8.61
+114.129.43.236,2053,443,TRUE,Singapore,Europe,DE,Singapore,348,8.61
+114.129.43.195,2053,443,TRUE,Singapore,Europe,DE,Singapore,335,8.6
+114.129.43.54,2053,443,TRUE,Singapore,Europe,DE,Singapore,331,8.58
+206.238.237.245,2053,443,TRUE,Singapore,North America,US,Singapore,330,8.56
+114.129.43.248,2053,443,TRUE,Singapore,Europe,DE,Singapore,236,8.56
+206.238.236.85,2053,443,TRUE,Singapore,Europe,DE,Singapore,361,8.55
+206.238.236.89,2053,443,TRUE,Singapore,Europe,DE,Singapore,339,8.52
+114.129.43.145,2053,443,TRUE,Singapore,North America,US,Singapore,320,8.51
+206.238.236.82,2053,443,TRUE,Singapore,Europe,DE,Singapore,369,8.5
+206.238.236.143,2053,443,TRUE,Singapore,Europe,DE,Singapore,313,8.49
+114.129.43.229,2053,443,TRUE,Singapore,Europe,DE,Singapore,173,8.49
+206.238.236.97,2053,443,TRUE,Singapore,Europe,DE,Singapore,421,8.47
+206.238.236.52,2053,443,TRUE,Singapore,Europe,DE,Singapore,348,8.47
+114.129.43.183,2053,443,TRUE,Singapore,Europe,DE,Singapore,291,8.44
+206.238.237.251,2053,443,TRUE,Singapore,Europe,DE,Singapore,283,8.43
+114.129.43.250,2053,443,TRUE,Singapore,Europe,DE,Singapore,356,8.42
+206.238.236.71,2053,443,TRUE,Singapore,Europe,DE,Singapore,287,8.39
+154.219.5.23,2053,443,TRUE,Singapore,Europe,DE,Singapore,279,8.33
+206.238.236.171,2053,443,TRUE,Singapore,Europe,FR,Singapore,315,8.33
+114.129.43.228,2053,443,TRUE,Singapore,Europe,DE,Singapore,203,8.32
+206.238.236.61,2053,443,TRUE,Singapore,Europe,DE,Singapore,320,8.31
+206.238.236.122,2053,443,TRUE,Singapore,Europe,DE,Singapore,290,8.31
+114.129.43.101,2053,443,TRUE,Singapore,Europe,DE,Singapore,347,8.3
+206.238.237.196,2053,443,TRUE,Singapore,North America,US,Singapore,305,8.26
+114.129.43.212,2053,443,TRUE,Singapore,Europe,DE,Singapore,296,8.24
+114.129.43.177,2053,443,TRUE,Singapore,North America,US,Singapore,241,8.18
+114.129.43.43,2053,443,TRUE,Singapore,Europe,DE,Singapore,369,8.17
+206.238.237.213,2053,443,TRUE,Singapore,Europe,DE,Singapore,364,8.14
+206.238.236.137,2053,443,TRUE,Singapore,Europe,DE,Singapore,313,8.14
+206.238.236.44,2053,443,TRUE,Singapore,Europe,FR,Singapore,302,8.14
+206.238.236.170,2053,443,TRUE,Singapore,Europe,DE,Singapore,198,8.11
+206.238.236.53,2053,443,TRUE,Singapore,North America,US,Singapore,211,8.1
+114.129.43.207,2053,443,TRUE,Singapore,Europe,DE,Singapore,299,8.09
+114.129.43.155,2053,443,TRUE,Singapore,Europe,DE,Singapore,320,8.06
+114.129.43.209,2053,443,TRUE,Singapore,Europe,DE,Singapore,335,8.06
+114.129.43.169,2053,443,TRUE,Singapore,Europe,FR,Singapore,314,8.05
+114.129.43.149,2053,443,TRUE,Singapore,Europe,FR,Singapore,382,8.03
+114.129.43.133,2053,443,TRUE,Singapore,Europe,DE,Singapore,377,8.02
+114.129.43.154,2053,443,TRUE,Singapore,Europe,GB,Singapore,213,8.01
+206.238.236.9,2053,443,TRUE,Singapore,Europe,DE,Singapore,389,8.01
+206.238.237.230,2053,443,TRUE,Singapore,Europe,DE,Singapore,353,8
+114.129.43.65,2053,443,TRUE,Singapore,Europe,DE,Singapore,448,7.95
+206.238.236.47,2053,443,TRUE,Singapore,Europe,DE,Singapore,355,7.94
+206.238.237.253,2053,443,TRUE,Singapore,Europe,DE,Singapore,323,7.91
+114.129.43.88,2053,443,TRUE,Singapore,Europe,DE,Singapore,250,7.85
+114.129.43.84,2053,443,TRUE,Singapore,Europe,DE,Singapore,397,7.82
+206.238.236.117,2053,443,TRUE,Singapore,Europe,DE,Singapore,314,7.8
+114.129.43.171,2053,443,TRUE,Singapore,Europe,DE,Singapore,300,7.8
+114.129.43.29,2053,443,TRUE,Singapore,Europe,DE,Singapore,262,7.79
+206.238.236.161,2053,443,TRUE,Singapore,Europe,DE,Singapore,371,7.76
+206.238.236.65,2053,443,TRUE,Singapore,Europe,DE,Singapore,269,7.76
+206.238.237.254,2053,443,TRUE,Singapore,Europe,DE,Singapore,279,7.76
+206.238.236.57,2053,443,TRUE,Singapore,Europe,CH,Singapore,284,7.75
+206.238.236.77,2053,443,TRUE,Singapore,Europe,DE,Singapore,266,7.74
+206.238.237.239,2053,443,TRUE,Singapore,Europe,DE,Singapore,234,7.73
+206.238.236.99,2053,443,TRUE,Singapore,North America,US,Singapore,461,7.72
+206.238.236.109,2053,443,TRUE,Singapore,Europe,DE,Singapore,216,7.72
+206.238.236.19,2053,443,TRUE,Singapore,Europe,DE,Singapore,340,7.71
+114.129.43.126,2053,443,TRUE,Singapore,North America,US,Singapore,245,7.7
+114.129.43.97,2053,443,TRUE,Singapore,Europe,DE,Singapore,438,7.7
+206.238.236.8,2053,443,TRUE,Singapore,Europe,DE,Singapore,326,7.67
+206.238.237.215,2053,443,TRUE,Singapore,North America,US,Singapore,323,7.67
+114.129.43.45,2053,443,TRUE,Singapore,Europe,DE,Singapore,286,7.62
+206.238.236.113,2053,443,TRUE,Singapore,Europe,DE,Singapore,206,7.6
+114.129.43.86,2053,443,TRUE,Singapore,North America,US,Singapore,315,7.58
+114.129.43.104,2053,443,TRUE,Singapore,North America,US,Singapore,336,7.57
+206.238.236.115,2053,443,TRUE,Singapore,Europe,DE,Singapore,265,7.57
+154.219.5.26,2053,443,TRUE,Singapore,Europe,IT,Singapore,373,7.56
+206.238.236.154,2053,443,TRUE,Singapore,North America,US,Singapore,286,7.56
+114.129.43.144,2053,443,TRUE,Singapore,North America,US,Singapore,322,7.55
+114.129.43.67,2053,443,TRUE,Singapore,North America,US,Singapore,225,7.55
+114.129.43.201,2053,443,TRUE,Singapore,Europe,DE,Singapore,278,7.48
+206.238.236.90,2053,443,TRUE,Singapore,Europe,DE,Singapore,343,7.47
+206.238.237.249,2053,443,TRUE,Singapore,Europe,DE,Singapore,347,7.47
+206.238.236.30,2053,443,TRUE,Singapore,Europe,DE,Singapore,357,7.43
+206.238.236.29,2053,443,TRUE,Singapore,Europe,DE,Singapore,328,7.4
+206.238.237.194,2053,443,TRUE,Singapore,North America,US,Singapore,336,7.39
+206.238.236.20,2053,443,TRUE,Singapore,Europe,DE,Singapore,275,7.39
+114.129.43.191,2053,443,TRUE,Singapore,Europe,DE,Singapore,283,7.38
+114.129.43.25,2053,443,TRUE,Singapore,Europe,DE,Singapore,468,7.38
+114.129.43.47,2053,443,TRUE,Singapore,Europe,DE,Singapore,320,7.36
+206.238.237.242,2053,443,TRUE,Singapore,Europe,DE,Singapore,365,7.36
+206.238.237.255,2053,443,TRUE,Singapore,Europe,DE,Singapore,360,7.34
+114.129.43.56,2053,443,TRUE,Singapore,Europe,DE,Singapore,333,7.34
+114.129.43.174,2053,443,TRUE,Singapore,Europe,DE,Singapore,268,7.32
+114.129.43.22,2053,443,TRUE,Singapore,Europe,DE,Singapore,323,7.29
+114.129.43.61,2053,443,TRUE,Singapore,Europe,DE,Singapore,330,7.27
+114.129.43.157,2053,443,TRUE,Singapore,Europe,NL,Singapore,364,7.25
+114.129.43.141,2053,443,TRUE,Singapore,North America,CA,Singapore,393,7.16
+206.238.237.232,2053,443,TRUE,Singapore,Europe,DE,Singapore,390,7.13
+206.238.237.241,2053,443,TRUE,Singapore,Asia Pacific,IN,Singapore,188,7.11
+206.238.236.54,2053,443,TRUE,Singapore,Europe,DE,Singapore,368,7.1
+114.129.43.244,2053,443,TRUE,Singapore,Europe,DE,Singapore,246,7.08
+114.129.43.245,2053,443,TRUE,Singapore,Europe,DE,Singapore,369,7.05
+206.238.237.219,2053,443,TRUE,Singapore,Europe,DE,Singapore,337,7.03
+206.238.237.197,2053,8443,TRUE,Singapore,Europe,FR,Singapore,261,7.01
+114.129.43.115,2053,443,TRUE,Singapore,Europe,DE,Singapore,194,6.95
+114.129.43.241,2053,443,TRUE,Singapore,North America,US,Singapore,268,6.94
+114.129.43.44,2053,443,TRUE,Singapore,Europe,DE,Singapore,236,6.94
+114.129.43.120,2053,443,TRUE,Singapore,Europe,DE,Singapore,234,6.91
+114.129.43.11,2053,443,TRUE,Singapore,Europe,DE,Singapore,329,6.89
+206.238.237.203,2053,443,TRUE,Singapore,North America,US,Singapore,387,6.89
+206.238.237.200,2053,443,TRUE,Singapore,Europe,DE,Singapore,234,6.85
+114.129.43.173,2053,443,TRUE,Singapore,Europe,SE,Singapore,275,6.83
+206.238.237.244,2053,443,TRUE,Singapore,North America,US,Singapore,351,6.82
+114.129.43.96,2053,443,TRUE,Singapore,Europe,DE,Singapore,286,6.82
+114.129.43.206,2053,443,TRUE,Singapore,Europe,GB,Singapore,231,6.79
+114.129.43.161,2053,443,TRUE,Singapore,Europe,DE,Singapore,461,6.79
+206.238.237.235,2053,443,TRUE,Singapore,Europe,DE,Singapore,280,6.78
+206.238.237.192,2053,443,TRUE,Singapore,Europe,DE,Singapore,287,6.74
+114.129.43.116,2053,443,TRUE,Singapore,Europe,DE,Singapore,364,6.72
+206.238.237.240,2053,443,TRUE,Singapore,North America,US,Singapore,317,6.7
+206.238.236.43,2053,443,TRUE,Singapore,Europe,DE,Singapore,388,6.68
+154.219.5.49,2053,443,TRUE,Singapore,Europe,DE,Singapore,337,6.68
+114.129.43.226,2053,443,TRUE,Singapore,Europe,DE,Singapore,285,6.66
+114.129.43.176,2053,443,TRUE,Singapore,Europe,DE,Singapore,257,6.64
+206.238.237.193,2053,443,TRUE,Singapore,Europe,NL,Singapore,296,6.64
+114.129.43.199,2053,443,TRUE,Singapore,Europe,DE,Singapore,378,6.63
+206.238.237.252,2053,443,TRUE,Singapore,Europe,DE,Singapore,306,6.59
+114.129.43.12,2053,443,TRUE,Singapore,Europe,DE,Singapore,379,6.56
+114.129.43.109,2053,443,TRUE,Singapore,North America,US,Singapore,241,6.54
+114.129.43.249,2053,443,TRUE,Singapore,Europe,DE,Singapore,287,6.52
+114.129.43.127,2053,443,TRUE,Singapore,North America,US,Singapore,236,6.51
+206.238.236.13,2053,443,TRUE,Singapore,North America,US,Singapore,371,6.5
+114.129.43.208,2053,443,TRUE,Singapore,Europe,DE,Singapore,313,6.47
+206.238.236.79,2053,443,TRUE,Singapore,Europe,DE,Singapore,337,6.44
+114.129.43.68,2053,443,TRUE,Singapore,Europe,GB,Singapore,266,6.43
+206.238.237.231,2053,443,TRUE,Singapore,Europe,DE,Singapore,295,6.39
+114.129.43.232,2053,443,TRUE,Singapore,Europe,FR,Singapore,239,6.39
+206.238.236.22,2053,443,TRUE,Singapore,Europe,DE,Singapore,354,6.37
+206.238.236.15,2053,443,TRUE,Singapore,Europe,DE,Singapore,254,6.35
+206.238.236.139,2053,443,TRUE,Singapore,Europe,GB,Singapore,283,6.34
+114.129.43.9,2053,443,TRUE,Singapore,Europe,DE,Singapore,424,6.28
+206.238.236.151,2053,443,TRUE,Singapore,Europe,DE,Singapore,294,6.21
+114.129.43.235,2053,443,TRUE,Singapore,North America,US,Singapore,276,6.21
+114.129.43.156,2053,443,TRUE,Singapore,North America,US,Singapore,353,6.2
+114.129.43.23,2053,443,TRUE,Singapore,Asia Pacific,SG,Singapore,116,6.19
+114.129.43.64,2053,443,TRUE,Singapore,Europe,DE,Singapore,373,6.06
+114.129.43.10,2053,443,TRUE,Singapore,North America,US,Singapore,225,6.02
+114.129.43.134,2053,443,TRUE,Singapore,Europe,DE,Singapore,334,6.02
+114.129.43.198,2053,443,TRUE,Singapore,North America,US,Singapore,327,6.02
+114.129.43.78,2053,443,TRUE,Singapore,North America,US,Singapore,327,5.81
+114.129.43.93,2053,443,TRUE,Singapore,North America,US,Singapore,357,5.8
+114.129.43.213,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,206,5.8
+114.129.43.8,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,222,5.77
+114.129.43.152,2053,443,TRUE,Singapore,North America,US,Singapore,268,5.75
+206.238.236.0,2053,443,TRUE,Singapore,North America,US,Singapore,306,5.72
+206.238.237.211,2053,443,TRUE,Singapore,North America,CA,Singapore,274,5.72
+206.238.237.208,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,240,5.68
+206.238.236.18,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,132,5.67
+114.129.43.222,2053,2096,TRUE,Singapore,Asia Pacific,KR,Singapore,171,5.66
+114.129.43.239,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,251,5.65
+206.238.236.14,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,149,5.65
+206.238.237.201,2053,443,TRUE,Singapore,Asia Pacific,IN,Singapore,231,5.65
+114.129.43.85,2053,443,TRUE,Singapore,Europe,SE,Singapore,362,5.61
+114.129.43.164,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,129,5.59
+114.129.43.41,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,310,5.58
+154.219.5.78,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,128,5.57
+206.238.236.74,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,232,5.54
+206.238.237.202,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,200,5.54
+206.238.237.222,2053,2083,TRUE,Singapore,Asia Pacific,KR,Singapore,226,5.5
+206.238.236.136,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,288,5.47
+206.238.236.80,2053,2087,TRUE,Singapore,North America,US,Singapore,352,5.46
+114.129.43.53,2053,443,TRUE,Singapore,Europe,DE,Singapore,312,5.39
+114.129.43.69,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,205,5.37
+114.129.43.142,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,212,5.35
+114.129.43.0,2053,443,TRUE,Singapore,North America,US,Singapore,252,5.32
+206.238.236.118,2053,2096,TRUE,Singapore,Asia Pacific,JP,Singapore,264,10.29
+114.129.43.59,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,295,10.29
+114.129.43.233,2053,443,TRUE,Singapore,Europe,SE,Singapore,306,10.29
+114.129.43.82,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,78,10.29
+114.129.43.151,2053,443,TRUE,Singapore,North America,US,Singapore,344,10.29
+114.129.43.227,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,231,10.29
+114.129.43.77,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,187,10.29
+206.238.236.127,2053,443,TRUE,Singapore,Europe,IT,Singapore,171,10.29
+206.238.236.38,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,242,10.29
+206.238.236.180,2053,443,TRUE,Singapore,Europe,DE,Singapore,251,10.29
+206.238.236.6,2053,443,TRUE,Singapore,Europe,NL,Singapore,263,10.29
+206.238.236.110,2053,443,TRUE,Singapore,Europe,FR,Singapore,267,10.29
+114.129.43.246,2053,443,TRUE,Singapore,Europe,DE,Singapore,331,10.29
+206.238.236.16,2053,443,TRUE,Singapore,Europe,DE,Singapore,408,10.29
+114.129.43.137,2053,443,TRUE,Singapore,Asia Pacific,SG,Singapore,136,10.29
+206.238.236.176,2053,2083,TRUE,Singapore,North America,US,Singapore,231,10.29
+206.238.236.87,2053,443,TRUE,Singapore,Europe,DE,Singapore,403,10.29
+206.238.236.32,2053,443,TRUE,Singapore,Europe,CH,Singapore,320,10.29
+206.238.236.24,2053,443,TRUE,Singapore,Europe,IT,Singapore,302,10.29
+206.238.236.56,2053,443,TRUE,Singapore,Europe,NL,Singapore,292,10.29
+114.129.43.91,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,292,10.29
+114.129.43.114,2053,443,TRUE,Singapore,Europe,NL,Singapore,342,10.29
+206.238.236.96,2053,443,TRUE,Singapore,Europe,DE,Singapore,216,10.29
+114.129.43.146,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,242,10.29
+114.129.43.1,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,102,10.29
+206.238.237.214,2053,443,TRUE,Singapore,Asia Pacific,SG,Singapore,126,10.29
+114.129.43.159,2053,443,TRUE,Singapore,Europe,NL,Singapore,292,10.29
+114.129.43.185,2053,443,TRUE,Singapore,North America,US,Singapore,189,10.29
+114.129.43.27,2053,2053,TRUE,Singapore,North America,US,Singapore,482,10.29
+206.238.237.228,2053,8443,TRUE,Singapore,North America,US,Singapore,177,10.29
+154.219.5.34,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,148,10.29
+114.129.43.107,2053,8443,TRUE,Singapore,North America,US,Singapore,356,10.29
+206.238.236.128,2053,443,TRUE,Singapore,Europe,GB,Singapore,268,10.29
+114.129.43.188,2053,443,TRUE,Singapore,Europe,NL,Singapore,338,10.29
+114.129.43.49,2053,443,TRUE,Singapore,North America,US,Singapore,219,10.29
+114.129.43.94,2053,2096,TRUE,Singapore,North America,US,Singapore,376,10.29
+206.238.236.142,2053,443,TRUE,Singapore,North America,US,Singapore,264,10.29
+114.129.43.24,2053,443,TRUE,Singapore,North America,US,Singapore,209,10.29
+114.129.43.19,2053,443,TRUE,Singapore,Europe,NL,Singapore,335,10.29
+206.238.236.12,2053,443,TRUE,Singapore,Europe,DE,Singapore,167,10.29
+114.129.43.63,2053,443,TRUE,Singapore,Europe,DE,Singapore,428,10.29
+114.129.43.218,2053,443,TRUE,Singapore,North America,US,Singapore,407,10.29
+206.238.237.205,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,264,10.29
+114.129.43.50,2053,443,TRUE,Singapore,North America,US,Singapore,227,10.29
+114.129.43.76,2053,443,TRUE,Singapore,Europe,DE,Singapore,244,10.29
+206.238.236.133,2053,443,TRUE,Singapore,Europe,FR,Singapore,336,10.29
+114.129.43.193,2053,443,TRUE,Singapore,North America,CA,Singapore,222,10.29
+206.238.236.98,2053,443,TRUE,Singapore,Europe,IT,Singapore,218,10.29
+154.219.5.24,2053,443,TRUE,Singapore,Europe,DE,Singapore,253,10.29
+114.129.43.180,2053,443,TRUE,Singapore,North America,US,Singapore,340,10.29
+114.129.43.108,2053,443,TRUE,Singapore,North America,CA,Singapore,334,10.29
+206.238.236.141,2053,443,TRUE,Singapore,Europe,IT,Singapore,295,10.29
+114.129.43.219,2053,443,TRUE,Singapore,Europe,FR,Singapore,247,10.29
+114.129.43.7,2053,443,TRUE,Singapore,Asia Pacific,JP,Singapore,238,10.29
+114.129.43.105,2053,443,TRUE,Singapore,Europe,SE,Singapore,274,10.29
+114.129.43.172,2053,443,TRUE,Singapore,North America,CA,Singapore,272,10.29
+114.129.43.184,2053,443,TRUE,Singapore,Europe,FR,Singapore,288,10.29
+114.129.43.197,2053,443,TRUE,Singapore,Europe,IT,Singapore,341,10.29
+114.129.43.66,2053,443,TRUE,Singapore,Middle East,IL,Singapore,428,10.29
+114.129.43.238,2053,443,TRUE,Singapore,North America,US,Singapore,340,10.29
+206.238.237.229,2053,443,TRUE,Singapore,Europe,DE,Singapore,390,10.29
+114.129.43.106,2053,443,TRUE,Singapore,North America,US,Singapore,277,10.29
+206.238.236.126,2053,443,TRUE,Singapore,Europe,NL,Singapore,414,10.29
+114.129.43.81,2053,443,TRUE,Singapore,North America,US,Singapore,418,10.29
+114.129.43.223,2053,443,TRUE,Singapore,South America,BR,Singapore,356,10.29
+114.129.43.110,2053,443,TRUE,Singapore,Europe,FR,Singapore,463,10.29
+114.129.43.36,2053,443,TRUE,Singapore,Europe,DE,Singapore,261,10.29
+114.129.43.38,2053,443,TRUE,Singapore,Europe,NL,Singapore,315,10.29
+114.129.43.33,2053,443,TRUE,Singapore,Europe,FR,Singapore,228,10.29
+114.129.43.55,2053,443,TRUE,Singapore,Europe,NL,Singapore,322,10.29
+114.129.43.128,2053,443,TRUE,Singapore,Europe,DE,Singapore,160,10.29
+114.129.43.200,2053,443,TRUE,Singapore,Europe,DE,Singapore,405,10.29
+114.129.43.210,2053,443,TRUE,Singapore,South America,BR,Singapore,375,10.29
+206.238.237.206,2053,443,TRUE,Singapore,Europe,DE,Singapore,183,10.29
+206.238.236.95,2053,443,TRUE,Singapore,Europe,NL,Singapore,281,10.29
+114.129.43.175,2053,443,TRUE,Singapore,South America,AR,Singapore,409,10.29
+114.129.43.87,2053,443,TRUE,Singapore,North America,US,Singapore,190,10.29
+114.129.43.58,2053,443,TRUE,Singapore,Middle East,AE,Singapore,190,10.29
+114.129.43.16,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,229,10.29
+114.129.43.130,2053,443,TRUE,Singapore,Oceania,AU,Singapore,284,10.29
+206.238.236.119,2053,443,TRUE,Singapore,South America,BR,Singapore,503,10.29
+114.129.43.118,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,99,10.29
+114.129.43.242,2053,443,TRUE,Singapore,North America,US,Singapore,355,10.29
+114.129.43.237,2053,443,TRUE,Singapore,North America,US,Singapore,274,10.29
+206.238.237.195,2053,443,TRUE,Singapore,Asia Pacific,KR,Singapore,192,10.29
+114.129.43.60,2053,443,TRUE,Singapore,Europe,FR,Singapore,323,10.29
+206.238.236.86,2053,443,TRUE,Singapore,South America,BR,Singapore,347,10.29
+114.129.43.217,2053,443,TRUE,Singapore,Europe,NL,Singapore,254,10.29
+114.129.43.129,2053,443,TRUE,Singapore,Europe,FR,Singapore,306,10.29
+206.238.236.185,2053,443,TRUE,Singapore,Europe,DE,Singapore,357,10.29
+114.129.43.74,2053,443,TRUE,Singapore,South America,BR,Singapore,388,10.29
+114.129.43.194,2053,443,TRUE,Singapore,Europe,FR,Singapore,201,10.29
+206.238.237.243,2053,443,TRUE,Singapore,North America,US,Singapore,260,10.29
+206.238.237.226,2053,443,TRUE,Singapore,Europe,DE,Singapore,309,10.29
+206.238.236.155,2053,443,TRUE,Singapore,North America,US,Singapore,399,10.29
+114.129.43.52,2053,8443,TRUE,Singapore,North America,US,Singapore,249,10.29
