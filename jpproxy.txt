@@ -1,5 +1,5 @@
-jp.yxproxyip.yyyrspeed.us.kg:443
+jp.kk-8723.cloudns.be:443
 proxyip.jp.fxxk.dedyn.io:443
-jp.kk-8723.cloudns.be:443:443
 proxyip.jp.hw.090227.xyz:443
-jp.onecf.eu.org:443
+ronics.cloudns.be:443
+jp.cmliu.cloudns.org.cdn.cloudflare.net:443
