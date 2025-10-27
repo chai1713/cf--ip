@@ -31,7 +31,7 @@
 216.83.47.64:443#US
 216.83.47.79:443#US
 216.83.47.83:443#US
-216.83.47.142:443#US216.83.47.142:443#US
+216.83.47.142:443#US
 38.60.91.95:443#US
 proxyip.multacom.fxxk.dedyn.io:443#US
 proxyip.nickng.link:443#US
@@ -44,4 +44,5 @@ zgo.lax.8416.top:443#US
 us.wokaotianshi.eu.org:443#US
 us.1314333.xyz:443#US
 us.cmliu.cloudns.org.cdn.cloudflare.net:443#US
+
 
